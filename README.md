@@ -1,0 +1,3 @@
+- 👋 Herro der, I am waloon yomis man and I like yomis
+- 👀 I’m interested in Java Script, I know a little bit of HTML and Python
+- 🌱 I’m currently learning Pythong/HTML
